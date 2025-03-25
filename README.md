@@ -28,3 +28,10 @@ This repository automates the setup of a new Mac using [Homebrew](https://brew.s
 ```bash
 git clone https://github.com/riskfinderdk/mac-setup.git
 cd mac-setup
+
+```bash
+##  Make the Script Executable
+chmod +x setup.sh
+
+```bash
+./setup.sh
